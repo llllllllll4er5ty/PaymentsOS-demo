@@ -1,4 +1,4 @@
-PayU-巴西 集成的Demo案例
+PaymentsOS Java集成的Demo案例，测试方法在com.leicx.payment.os包下的PaymentOSDemo类中
 
 集成PayU时，需要先申请自己的appId， privateKey，publicKey等身份信息数据
 
