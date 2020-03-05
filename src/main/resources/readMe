@@ -1,0 +1,7 @@
+PayU-巴西 集成的Demo案例
+
+集成PayU时，需要先申请自己的appId， privateKey，publicKey等身份信息数据
+
+使用该项目时，只需将PayuStringConstant中的对应key改成自己申请的key即可
+
+如果是live环境，那么信用卡必须是可用的信用卡
